@@ -8,7 +8,6 @@ export default function Home() {
       <div className="home">
         <div
           style={{
-            height:65vh,
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
