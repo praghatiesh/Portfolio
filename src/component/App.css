@@ -14,7 +14,11 @@ body {
 .box {
   padding: 10px 14px;
 }
+.home{
 
+    margin: 25px;
+
+}
 .name {
   position: absolute;
   left: 0;
