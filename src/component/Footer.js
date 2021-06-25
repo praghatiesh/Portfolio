@@ -4,7 +4,7 @@ export default function Footer(){
         <>
         <div class="links">
         <div>
-          <h1 style={{ textAlign: "center" }}>Contact</h1>
+          <h1 style={{ textAlign: "center",margin:2 }}>Contact</h1>
           <div style={{ display: "flex", flexDirection: "row" }}>
             <a href="https://www.linkedin.com/in/praghatiesh/">
               <img
