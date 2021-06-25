@@ -10,7 +10,7 @@ export default function Home() {
           style={{
             display: "flex",
             flexDirection: "column",
-            height:70vh,
+//             height:70vh,
             justifyContent: "center",
             alignItems: "center",
           }}
